@@ -1,3 +1,4 @@
+package com.fire.string.pattern;
 import java.util.Arrays;
 
 /*

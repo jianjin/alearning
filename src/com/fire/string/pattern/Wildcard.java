@@ -1,3 +1,4 @@
+package com.fire.string.pattern;
 /******************************************************************************
  *  Compilation:  javac Wildcard.java
  *  Execution:    java Wildcard pattern < wordlist.txt

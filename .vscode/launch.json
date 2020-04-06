@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stock",
+            "request": "launch",
+            "mainClass": "com.fire.divideconquer.stock"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mergesort",
+            "request": "launch",
+            "mainClass": "com.fire.sort.mergesort"
+        }
+    ]
+}
